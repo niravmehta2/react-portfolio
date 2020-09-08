@@ -1,72 +1,66 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Nirav Mehta",
+    "occupation": "Front-end Developer",
+    "description": "Front-end Developer by Day, Founder && Freelancer by Night.",
+    "image": "nirav.png",
+    "bio": "My name is Nirav, I'm a Front-end Developer. Currently I'm working as a freelancer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "Niravmehta1997@yahoo.com",
+    "phone": "+48 739 470 652",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
       "state": "UK",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://github.com/niravmehta2",
+    "resumedownload": "https://github.com/niravmehta2",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/niravmehta1997/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/nirav-mehta-83511013a",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/desk_programmer/?hl=en",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/niravmehta2",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Fedaration university of australia",
+        "degree": "Diploma in Computer Science",
+        "graduated": "January 2018",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Freelance",
+        "title": "Front-end developer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Teaching students and making web apps."
       },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
-      }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
@@ -82,45 +76,49 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "95%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Mehta Communication",
+        "category": "Mobile shop website built with HTML, CSS and Bootstrap ",
+        "image": "mehta.png",
+        "url": "https://niravmehta2.github.io/Mehta-Communication/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Store Locator app",
+        "category": "Store locator built with HTML, CSS and Javascript",
+        "image": "Store.png",
+        "url": "https://niravmehta2.github.io/Store-Locator/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Text Editor app",
+        "category": "Text Editor built with HTML, CSS and Javascript",
+        "image": "text.png",
+        "url": "https://niravmehta2.github.io/text-editor/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "NUNO bootstrap",
+        "category": "NUNO bootstrap built with HTML, CSS and Bootstrap",
+        "image": "Nuno.png",
+        "url": "https://niravmehta2.github.io/Nunobootstrap/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Newbie bootstrap",
+        "category": "Newbie bootstrap built with HTML, CSS and Bootstrap",
+        "image": "newbie.png",
+        "url": "https://niravmehta2.github.io/bootstrap/"
       }
     ]
   },
@@ -131,7 +129,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Nirav Mehta must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
